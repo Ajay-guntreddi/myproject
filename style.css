@@ -4,13 +4,21 @@
     <title>My Website</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
     <div class="container">
         <h1>Welcome to My Website</h1>
+
         <p>This is my first website using Git.</p>
+
+        <p>Now I am learning Git and GitHub.</p>
+
+        <h2>My First Git Project</h2>
+
         <button>Learn More</button>
     </div>
 
 </body>
 </html>
+
